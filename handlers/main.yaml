@@ -1,0 +1,8 @@
+---
+
+  - name: Restart service cadvisor exporter
+    ansible.builtin.service:
+      state: restarted
+      daemon_reload: true
+      enabled: true
+      name: cadvisor.service

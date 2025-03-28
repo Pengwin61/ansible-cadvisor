@@ -1,0 +1,4 @@
+---
+
+cadvisor_exporter_version: "0.47.2"
+base_url: "https://github.com/google/cadvisor/releases/download/v{{ cadvisor_exporter_version }}/cadvisor-v{{ cadvisor_exporter_version }}-linux-amd64"

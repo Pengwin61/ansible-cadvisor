@@ -1,0 +1,6 @@
+---
+
+- name: cADVISOR EXPORTER
+  ansible.builtin.include_tasks: cadvisor.yaml
+  tags:
+    - cadvisor
