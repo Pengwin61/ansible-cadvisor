@@ -3,7 +3,7 @@
 Устанавливает и настраивает Cadvisor на Debian-based Linux дистрибутивах.
 
 ## Links:
-* [docker.io](https://docker.io)
+* [github.com](https://github.com/google/cadvisor)
 
 
 ## Variables:
